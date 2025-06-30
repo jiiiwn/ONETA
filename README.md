@@ -26,7 +26,7 @@ Please update the paths listed below in the code to match your local environment
 2. In inference.py, ckpt_path
 3. In util.py, meta_data_dir
 
-# Style Token & File Extension for each dataset
+# Style token & File extension for each Dataset
 We assigned a unique integer representing the style to each dataset. 
 Refer to the [table](table.png) for the file extension used by each dataset. 
 If you change any of the extensions, make sure to update the prefix_extract function in util.py accordingly.
