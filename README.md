@@ -12,9 +12,8 @@ During training, each style token is learned using image pairs from the correspo
 Extensive experiments show that the single Oneta network can effectively undertake six enhancement tasks --- retouching, image signal processing, low-light image enhancement, dehazing, underwater image enhancement, and white balancing --- across 30 datasets.
 
 # Environment Setting
-<pre> ```
-  bash pip install -r requirements.txt
-  ``` </pre>
-
+```bash
+pip install -r requirements.txt 
+```
 
 # Path Setting
