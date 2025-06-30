@@ -8,7 +8,7 @@ if __name__ == "__main__":
     num_style = 30  # Retouching 8 + ISP 9 + UW 2 + LLIE 7 + Dehazing 2 + WB 2
     
     # u mat file load
-    u_path = 'your_directory/u_matrix_all_dataset(train).mat'
+    u_path = 'your_directory/u_matrix.mat'
     data_u = loadmat(u_path)
     u_mat = data_u['u_matrix']  # 256 * 20
     
