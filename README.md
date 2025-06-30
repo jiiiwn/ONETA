@@ -14,5 +14,7 @@ Extensive experiments show that the single Oneta network can effectively underta
 # Environment Setting
 <pre> pip install -r requirements.txt </pre>
 
+<pre> ```bash pip install -r requirements.txt ``` </pre>
+
 
 # Path Setting
