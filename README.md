@@ -28,7 +28,5 @@ Please update the paths listed below in the code to match your local environment
 
 # Style Token & File Extension for each dataset
 We assigned a unique integer representing the style to each dataset. 
-Refer to the following for the file extension used by each dataset. 
-
-
+Refer to the [table](table.png) for the file extension used by each dataset. 
 If you change any of the extensions, make sure to update the prefix_extract function in util.py accordingly.
