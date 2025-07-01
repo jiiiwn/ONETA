@@ -1,6 +1,6 @@
 # Oneta: Multi-Style Image Enhancement Using Eigentransformation Functions
 <em>Jiwon Kim<sup>1*</sup></em>, <em>Soohyun Hwang<sup>1*</sup></em>, *Dong-O Kim<sup>2</sup>, Changsu Han<sup>2</sup>, Min Kyu Park<sup>2</sup>, Chang-Su Kim<sup>1</sup>*
-[pdf]()
+[pdf](http://arxiv.org/abs/2506.23547)
 ![overview image](overview_image.png)
 
 
